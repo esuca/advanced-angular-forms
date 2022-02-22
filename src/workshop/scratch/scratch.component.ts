@@ -1,6 +1,6 @@
 import {ChangeDetectionStrategy, Component, NgModule} from "@angular/core";
-import {ExerciseZeroModule} from "src/workshop/00";
-import {ExerciseOneModule} from "src/workshop/01";
+import { ExerciseZeroModule } from '../00';
+import { ExerciseOneModule } from '../01';
 
 @Component({
   selector: "scratch",
